@@ -5,7 +5,7 @@ Every stduent aiming to pursue master's in some STEM degree has to go through th
 ## The Question
 
 Now this era is data driven and everyone is using ML and DL tech in varied ways. So can we use the same techniques to tackle this problem ?
-The answer's complicated mainly because the content in SOP ,LOR ,Resume's ,etc is subjective and GRE , TOEFL score  ,CGPA ,etc are numeric.
+The answer's complicated mainly because the content in SOP ,LOR ,Resume's ,etc is subjective and GRE,TOEFL score ,CGPA ,etc are numeric.
 So an approach would be to use the strength of SOP , LOR's on scale of 0-5 which will very sparsely represent the features of SOP and LOR's. Yet some of NLP must be done SOP and LOR's to extract the info and to eventually understand some kind of sentiment behind it i.e the **"WHY?"** behind the SOP's. This may guve us some strong indicators about SOP.
 
 ## Analysis on the collected data
