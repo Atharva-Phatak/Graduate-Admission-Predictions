@@ -1,6 +1,6 @@
 # Graduate-Admission-Predictions
 
-Every stduent aiming to pursue master's in some STEM degree has to go through the tedious process of listing out possbile colleges accoring to his/her profile. So naturally the question arises what kind of factors does the committee takes into account in giving possible admits to student. Mainly factors such as SOP , LOR's , Resume's , GRE scores and some other factors are looked upon when the admission's committee is looking at a profile.
+Every student aiming to pursue master's in some STEM degree has to go through the tedious process of listing out possbile colleges accoring to his/her profile. So naturally the question arises what kind of factors does the committee takes into account in giving possible admits to student. Mainly factors such as SOP , LOR's , Resume's , GRE scores and some other factors are looked upon when the admission's committee is looking at a profile.
 
 ## The Question
 
